@@ -22,9 +22,9 @@ When we run this nc command we get something like this,
 
 The program prints out a linux python3 command which looks like it get something from a website and runs a program
 
-This is no problem because we can the terminal to get the flag by copying the the python command and using a new window to run the command
+This is no problem because we can use the terminal to get the flag by copying the the python command and using a new window to run the command
 
-After running the python command, we get the Solution which the nc program asked us
+After running the python command, we get the *solution* which the nc program asked us
 
 `Solution: s.AAB3ISeJuwIKUXHv67Jk3gVVE2cek6JXazbZxIxQYXTBTzB+yLMAsWRwOPUKtHuUJECyCR9ImHE94LgZKwMz2eLWFkgSKOIODSWLmGnahJEChCxITmEoNJPfD6DXUYKMYB1MZHVFCgTd7l0ipz8gCsF2/Knt8+9hyiYydbmi60TD1oY/OWF4nDQ0ef96MJlE7PZaj1TDmXGGQUkJLkoqgnl+`
 
